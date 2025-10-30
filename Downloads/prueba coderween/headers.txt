@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 29 Oct 2025 19:52:59 GMT
+Content-Type: text/html
+Connection: keep-alive
+CF-Ray: 99653769883a1ea3-EZE
+CF-Cache-Status: DYNAMIC
+Cache-Control: public, max-age=0, must-revalidate
+Last-Modified: Wed, 29 Oct 2025 19:36:01 GMT
+Link: <https://framerusercontent.com>; rel="preconnect", <https://framerusercontent.com>; rel="preconnect"; crossorigin=""
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+server-timing: region;desc="sa-east-1", cache;desc="cached", ssg-status;desc="optimized", version;desc="f2495da"
+x-content-type-options: nosniff
+
